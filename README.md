@@ -1,16 +1,14 @@
 ## 📈 Estatísticas do GitHub
 
-<p align="lef">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yu-Joao&show_icons=true&title_color=32CD32&text_color=32CD32&icon_color=32CD32&bg_color=00000000" alt="GitHub Stats" />
-</p>
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-Joao&layout=compact&title_color=32CD32&text_color=32CD32&bg_color=00000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yu-Joao&show_icons=true&title_color=32CD32&text_color=32CD32&icon_color=32CD32&bg_color=00000000&border_color=00000000" alt="Estatisticas do Github"/>
 </p>
 
----
 
-## ⌨️ Tecnologias que eu uso
+<br>
+
+## ⌨️ Tecnologias que eu estou usando
+<br>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -19,11 +17,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
----
+
+
+<br>
 
 ## 📊 Porcentagem de uso das linguagens 
 
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-Joao&layout=compact&title_color=32CD32&text_color=32CD32&bg_color=00000000" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-Joao&langs_count=8&layout=compact&title_color=32CD32&text_color=32CD32&bg_color=00000000&border_color=00000000" alt="Porcentagem" />
 </p>
+
+
