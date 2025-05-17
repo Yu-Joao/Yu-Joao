@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 Porcentagem de uso de linguagens 
+## 📊 Porcentagem de uso das linguagens 
 
 
 <p align="left">
