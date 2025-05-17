@@ -1,16 +1,29 @@
-## Hi there 👋
+## 📈 Estatísticas do GitHub
 
-<!--
-**Yu-Joao/Yu-Joao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="lef">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yu-Joao&show_icons=true&title_color=32CD32&text_color=32CD32&icon_color=32CD32&bg_color=00000000" alt="GitHub Stats" />
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-Joao&layout=compact&title_color=32CD32&text_color=32CD32&bg_color=00000000" alt="Top Languages" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⌨️ Tecnologias que uso
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 Porcentagem de uso de linguagens 
+
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-Joao&layout=compact&title_color=32CD32&text_color=32CD32&bg_color=00000000" alt="Linguagens mais usadas" />
+</p>
